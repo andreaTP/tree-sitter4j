@@ -50,7 +50,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.release>17</maven.compiler.release>
 
-    <endive.version>0.0.1</endive.version>
+    <endive.version>1.0.0</endive.version>
     <junit.version>6.1.0</junit.version>
     <jackson.version>2.22.0</jackson.version>
 
