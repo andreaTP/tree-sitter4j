@@ -52,7 +52,7 @@
 
     <endive.version>0.0.1</endive.version>
     <junit.version>6.1.0</junit.version>
-    <jackson.version>2.22.0</jackson.version>
+    <jackson.version>2.22.1</jackson.version>
 
     <surefire-plugin.version>3.5.6</surefire-plugin.version>
     <maven-compiler-plugin.version>3.15.0</maven-compiler-plugin.version>
